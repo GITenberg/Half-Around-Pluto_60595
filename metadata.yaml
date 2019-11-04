@@ -1,0 +1,23 @@
+_repo: Half-Around-Pluto_60595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wellman, Manly Wade
+    birthdate: 1903
+    deathdate: 1986
+    gutenberg_agent_id: '25394'
+    url: http://www.gutenberg.org/2009/agents/25394
+    wikipedia: http://en.wikipedia.org/wiki/Manly_Wade_Wellman
+description: ''
+gutenberg_issued: '2019-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Half Around Pluto
+url: http://www.gutenberg.org/ebooks/60595
